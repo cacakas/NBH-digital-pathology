@@ -1,2 +1,3 @@
-asdfasdf
-lib
+# R test 공간
+
+# 이 부분을 수정했다.

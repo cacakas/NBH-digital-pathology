@@ -1,6 +1,4 @@
-from distutils.command.install_headers import install_headers
-from signal import alarm
-
-
-install_headers
-alarm 
+# Python test 공간
+# 수정했다.
+# 열심히 하자.
+# 재밌다.
